@@ -15,9 +15,8 @@ Use GitHub's private vulnerability reporting on the affected repository:
 
 ### What to expect
 
-- Acknowledgment within 48 hours
-- Status update within 7 days
-- We'll coordinate disclosure timing with you
+This is a best-effort personal project. We'll review reports as time allows
+and coordinate disclosure with you when possible.
 
 ### Scope
 
