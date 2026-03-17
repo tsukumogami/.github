@@ -13,13 +13,6 @@ Use GitHub's private vulnerability reporting on the affected repository:
 2. Click **Report a vulnerability**
 3. Fill in the details
 
-Alternatively, email **security@tsuku.dev** with:
-
-- Description of the vulnerability
-- Steps to reproduce
-- Affected versions
-- Any potential impact you've identified
-
 ### What to expect
 
 - Acknowledgment within 48 hours
